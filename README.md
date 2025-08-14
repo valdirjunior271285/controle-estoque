@@ -1,6 +1,10 @@
 
-
 # 📦✨ Controle de Estoque
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Projeto simples para gerenciar produtos e quantidades em estoque. Feito para estudo e prática com **HTML**, **CSS** e **JavaScript**.
 
@@ -17,6 +21,10 @@ Projeto simples para gerenciar produtos e quantidades em estoque. Feito para est
 ---
 
 ## 🛠 Tecnologias Utilizadas
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 | Tecnologia       | Uso                                 |
 | ---------------- | ----------------------------------- |
@@ -37,38 +45,48 @@ cd controle-estoque
 ### 2️⃣ Executar o projeto
 
 #### 🔹 Abrir direto no navegador
-1. Abra a pasta do projeto.  
-2. Dê duplo clique no arquivo `index.html`.  
-
-> ✅ O sistema abrirá no navegador e estará pronto para uso.
+- Abra a pasta do projeto  
+- Dê duplo clique no arquivo `index.html`  
+> ✅ O sistema abrirá no navegador pronto para uso
 
 ---
 
-## 🧭 Como usar o sistema
+## 🧭 Como usar o sistema 
 
-### Abrir o sistema
-- Abra o sistema no navegador seguindo as instruções acima.
+### 1️⃣ Abrir o sistema
+🖥️ Abra o arquivo `index.html` no navegador  
 
-### Adicionar um produto
-1. Digite o **nome do produto**, **quantidade** e **preço** no formulário.  
-2. Clique em **Adicionar**.  
-3. O produto aparecerá na lista abaixo.
+---
 
-### Atualizar a quantidade de um produto
-1. Localize o produto na lista.  
-2. Clique em **Atualizar** ao lado do produto.  
-3. Digite a nova quantidade e confirme.
+### 2️⃣ Adicionar um produto
+🟦 **Passo 1:** Digite **nome, quantidade e preço**  
+🟦 **Passo 2:** Clique em **Adicionar**  
+🟦 **Passo 3:** Produto aparece na lista  
 
-### Remover um produto
-1. Localize o produto na lista.  
-2. Clique em **Remover**.
+---
 
-### Salvar automaticamente
-- Se o `localStorage` estiver ativado, todos os produtos permanecerão salvos mesmo depois de fechar o navegador.
+### 3️⃣ Atualizar um produto
+🟨 **Passo 1:** Localize o produto na lista  
+🟨 **Passo 2:** Clique em **Atualizar**  
+🟨 **Passo 3:** Digite a nova quantidade e confirme  
 
-### Finalizar
-- Basta fechar a aba ou o navegador.  
-- Ao reabrir o sistema, todos os dados ainda estarão disponíveis 
+---
+
+### 4️⃣ Remover um produto
+🟥 **Passo 1:** Localize o produto  
+🟥 **Passo 2:** Clique em **Remover**  
+
+---
+
+### 5️⃣ Salvar automaticamente
+🟩 **LocalStorage ativo:** produtos permanecem salvos mesmo após fechar o navegador  
+
+---
+
+### 6️⃣ Finalizar
+✅ Basta fechar a aba ou navegador  
+✅ Ao abrir novamente, os dados permanecem (se LocalStorage estiver ativo)  
+
 
 
 
